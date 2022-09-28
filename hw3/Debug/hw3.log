@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\vivia\source\repos\hw3\hw3\main.cpp(21,53): warning C4305: '正在初始化': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\vivia\source\repos\hw3\hw3\main.cpp(254,8): warning C4244: '引數': 將 'double' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\source\repos\hw3\hw3\main.cpp(269,18): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\source\repos\hw3\hw3\main.cpp(269,13): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\source\repos\hw3\hw3\main.cpp(283,44): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\source\repos\hw3\hw3\main.cpp(411,33): warning C4305: '引數': 從 'double' 轉換為 'GLclampf'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  hw3.vcxproj -> C:\Users\vivia\source\repos\hw3\Debug\hw3.exe
